@@ -3,19 +3,27 @@
 San Mateo, CA | github.com/GrLau | lau.gr@northeastern.edu | linkedin.com/in/grant-lau-0998682a6/ | (650) 388-0999
 
 **EDUCATION**
-Northeastern University, Boston, MA 						           September 2025 - Present
+**Northeastern University**, Boston, MA
 
-Khoury College of Computer Science 							       Expected May 2029
+September 2025 - Present
 
-Candidate for Bachelor of Science in Computer Science and Business Administration
+_Khoury College of Computer Science_
+
+Expected May 2029
+
+
+**Candidate for Bachelor of Science in Computer Science and Business Administration**
 
 Related Coursework:	Introduction to Program Design and Implementation | Discrete Structures | Funding and Measuring Social Impact | Innovation
 
 **COMPUTER KNOWLEDGE**
-Languages: Python, Java | Software: GitHub, Jupyter, Eclipse
+**Languages:** Python, Java | **Software:** GitHub, Jupyter, Eclipse
 
 **WORK EXPERIENCE**
-Home Helpers, Caregiver, San Mateo, CA 						          July – Aug 2025
+**Home Helpers**, _Caregiver_, San Mateo, CA
+
+July – Aug 2025
+
 
 •	Completed certified caregiving training, applying safety protocols to deliver high-quality, compliant support
 
@@ -23,7 +31,10 @@ Home Helpers, Caregiver, San Mateo, CA 						          July – Aug 2025
 
 •	Enhanced quality of life through compassionate companionship, including pet care, daily assistance, and wheelchair transportation
 
-City of San Mateo Parks and Recreation, Camp Counselor, San Mateo, CA	         Jun – Aug. 2023
+**City of San Mateo Parks and Recreation**, _Camp Counselor_, San Mateo, CA
+
+Jun – Aug. 2023
+
 
 •	Led games and arts activities for 20+ children, fostering teamwork, creativity, and engagement
 
@@ -32,7 +43,10 @@ City of San Mateo Parks and Recreation, Camp Counselor, San Mateo, CA	         J
 •	Applied problem-solving to adapt field trip logistics, balance activities, and ensure safety for 5+ children
 
 **PROJECTS** 
-Hotel Reservation Cancellation Prediction, Developer					   Jun. 2024 – Mar. 2025
+**Hotel Reservation Cancellation Prediction**, _Developer_
+
+Jun. 2024 – Mar. 2025
+
 
 •	Predicted hotel booking cancellations by training and testing multiple classification models, including Logistic Regression, Decision Tree, and Random Forest
 
@@ -42,5 +56,5 @@ Hotel Reservation Cancellation Prediction, Developer					   Jun. 2024 – Mar. 2
 https://doi.org/10.64336/001c.133741 
 
 **INTERESTS & ORGANIZATIONS**
-Interests: Video games, Poker, Traveling, AI, Personal Finance | Organizations: Asian Christian Fellowship, AI Studio, Fencing Club, Dining Engagement Committee
+**Interests:** Video games, Poker, Traveling, AI, Personal Finance | **Organizations:** Asian Christian Fellowship, AI Studio, Fencing Club, Dining Engagement Committee
 
