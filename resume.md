@@ -1,4 +1,5 @@
 **Grant Lau** 
+
 San Mateo, CA | github.com/GrLau | lau.gr@northeastern.edu | linkedin.com/in/grant-lau-0998682a6/ | (650) 388-0999
 
 **EDUCATION**
